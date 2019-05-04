@@ -1,0 +1,11 @@
+.showdata{
+    border: 1px solid blue;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.col{
+    border: 1px solid black;
+    width: 20%
+}
